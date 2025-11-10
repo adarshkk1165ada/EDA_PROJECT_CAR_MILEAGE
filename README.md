@@ -7,6 +7,11 @@ It includes:
 - A row,cleaned dataset
 - A Jupyter notebook with analysis & visualizations
 - Exported visuals (PNG/PDF)
+ ### 📁 Files Overview
+- [Dataset Folder](./data)
+- [EDA Notebook](./notebook/AUTOMOBILE_MILEAGE_EDA.ipynb)
+- [Visualizations](./visualization)
+
 
 ---
 
@@ -53,4 +58,5 @@ https://www.linkedin.com/in/adarsh-k-k-ab6917375/
 ---
 
 > “Every dataset tells a story — EDA helps us listen.”
+
 
